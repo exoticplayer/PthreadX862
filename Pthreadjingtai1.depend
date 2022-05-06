@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651813713 source:d:\²¢ÐÐ\codeblocks\project\pthreadjingtai1\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<pthread.h>
+	<windows.h>
+	<semaphore.h>
+
